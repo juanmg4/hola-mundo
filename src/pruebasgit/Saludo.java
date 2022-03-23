@@ -2,19 +2,19 @@ package pruebasgit;
 
 public class Saludo {
 
-    private String saludo;
+    private String saludoBienvenida;
     
     public Saludo() {
         
-        saludo = "hola mundo";
+        saludoBienvenida = "hola mundo";
     }
 
     public String getSaludo() {
-        return saludo;
+        return saludoBienvenida;
     }
 
     public void setSaludo(String saludo) {
-        this.saludo = saludo;
+        this.saludoBienvenida = saludo;
     }
     
     
