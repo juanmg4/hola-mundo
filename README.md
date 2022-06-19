@@ -1,2 +1,2 @@
 # hola-mundo
-probando repositorio en github
+Repositorio de pruebas en github
